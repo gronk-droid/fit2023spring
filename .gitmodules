@@ -1,18 +1,24 @@
 [submodule "cse4020"]
 	path = cse4020
 	url = git@github.com:gronk-droid/cse4020.git
+	branch = trunk
 [submodule "cse4202"]
 	path = cse4202
 	url = git@github.com:gronk-droid/cse4202.git
+	branch = trunk
 [submodule "cse4234"]
 	path = cse4234
 	url = git@github.com:gronk-droid/cse4234.git
+	branch = trunk
 [submodule "cse4301"]
 	path = cse4301
 	url = git@github.com:gronk-droid/cse4301.git
+	branch = trunk
 [submodule "hum2332"]
 	path = hum2332
 	url = git@github.com:gronk-droid/hum2332.git
+	branch = trunk
 [submodule "phy1001"]
 	path = phy1001
 	url = git@github.com:gronk-droid/phy1001.git
+	branch = trunk
